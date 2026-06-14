@@ -1,0 +1,6 @@
+target/
+dist/
+*.class
+GenerateHash.java
+GenerateHash.class
+src/main/resources/config.properties
