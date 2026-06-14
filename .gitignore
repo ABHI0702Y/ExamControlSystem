@@ -4,3 +4,6 @@ dist/
 GenerateHash.java
 GenerateHash.class
 src/main/resources/config.properties
+backend/src/main/resources/application.properties
+frontend/node_modules/
+frontend/dist/
